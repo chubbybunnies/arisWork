@@ -1,0 +1,35 @@
+.tableFlaire{
+
+  background-color: #F5F5DC;
+  width: 100%;
+  box-shadow: 5px 5px 1px;
+
+}
+
+
+tr:hover{
+
+  background-color: #006400;
+
+}
+
+#exit{
+
+  color:#006688;
+
+}
+
+#starViewer{
+
+  position: relative;
+  top: 1.2em;
+
+}
+
+#starPoints{
+
+  float: left;
+  position: relative;
+  left: 7em;
+
+}
